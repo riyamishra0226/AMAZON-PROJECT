@@ -1,29 +1,59 @@
 # 🛒 Amazon Clone
 
-A responsive front-end clone of the Amazon homepage built using **HTML5** and **CSS3**. This project recreates the basic layout and design of Amazon's landing page to improve my front-end development skills.
+A responsive front-end clone of the Amazon homepage built using **HTML5** and **CSS3**. This project replicates the layout and design of Amazon's homepage to strengthen my front-end web development skills.
 
-## 📌 Features
+## 🔗 Live Demo
+
+https://riyamishra0226.github.io/AMAZON-PROJECT/
+
+> *(If GitHub Pages is not enabled yet, enable it first. Then replace the link above with your live website URL.)*
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](images/amazon_clone_ss1.png)
+
+### 🛍️ Product Section
+
+![Product Section](images/amazon_clone_ss2.png)
+
+### 📄 Footer
+
+![Footer](images/amazon_clone_ss3.png)
+
+---
+
+## ✨ Features
 
 - Responsive navigation bar
-- Amazon-style search bar
-- Hero section/banner
-- Product cards with images
-- Multiple shopping sections
-- Footer similar to Amazon
-- Clean and responsive layout
-- Pure HTML & CSS (No JavaScript)
+- Amazon-style logo and search bar
+- Hero banner section
+- Product category cards
+- Shopping sections with images
+- Responsive footer
+- Clean and organized UI
+- Built using only HTML and CSS
+
+---
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 
+---
+
 ## 📂 Project Structure
 
 ```
 AMAZON-PROJECT/
-│── index.html
-│── style.css
+│── images/
+│   ├── amazon_clone_ss1.png
+│   ├── amazon_clone_ss2.png
+│   └── amazon_clone_ss3.png
 │── amazon_logo.png
 │── hero_image.jpg
 │── box1_image.jpg
@@ -34,11 +64,16 @@ AMAZON-PROJECT/
 │── box6_image.jpg
 │── box7_image.jpg
 │── box8_image.jpg
+│── index.html
+│── style.css
+│── README.md
 ```
 
-## 🚀 How to Run
+---
 
-1. Clone this repository
+## 🚀 Getting Started
+
+1. Clone the repository
 
 ```bash
 git clone https://github.com/riyamishra0226/AMAZON-PROJECT.git
@@ -46,42 +81,43 @@ git clone https://github.com/riyamishra0226/AMAZON-PROJECT.git
 
 2. Open the project folder.
 
-3. Double-click `index.html` or open it with **Live Server** in VS Code.
+3. Run the project by opening `index.html` in your browser or using the **Live Server** extension in VS Code.
 
-## 📸 Screenshot
-
-
-
+---
 
 ## 🎯 Learning Outcomes
 
-Through this project, I learned:
+This project helped me improve my understanding of:
 
-- HTML page structure
+- HTML5 semantic structure
 - CSS Flexbox
-- CSS Grid basics
+- CSS styling and layouts
 - Responsive web design
-- Styling navigation bars
-- Creating product cards
-- Working with images and layouts
-- Organizing project files
+- Image positioning
+- Navigation bar design
+- Building real-world website layouts
 
-## 📈 Future Improvements
+---
+
+## 🚀 Future Improvements
 
 - Add JavaScript functionality
-- Product slider
-- Login page
-- Shopping cart
-- Responsive menu
-- Dark mode
-- Backend integration
+- Implement product slider
+- Add user authentication page
+- Create shopping cart functionality
+- Improve mobile responsiveness
+- Integrate backend using MERN Stack
+
+---
 
 ## 👩‍💻 Author
 
 **Riya Mishra**
 
-GitHub: https://github.com/riyamishra0226
+- GitHub: https://github.com/riyamishra0226
 
 ---
 
-⭐ If you like this project, don't forget to star the repository!
+## ⭐ Show Your Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
