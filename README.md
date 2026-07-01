@@ -4,10 +4,7 @@ A responsive front-end clone of the Amazon homepage built using **HTML5** and **
 
 ## 🔗 Live Demo
 
-https://riyamishra0226.github.io/AMAZON-PROJECT/
-
-> *(If GitHub Pages is not enabled yet, enable it first. Then replace the link above with your live website URL.)*
-
+ (https://riyamishra0226.github.io/AMAZON-PROJECT/)
 ---
 
 ## 📸 Screenshots
