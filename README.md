@@ -4,7 +4,7 @@ A responsive front-end clone of the Amazon homepage built using **HTML5** and **
 
 ## 🔗 Live Demo
 
- (https://riyamishra0226.github.io/AMAZON-PROJECT/)
+👉 **[View Live Demo](https://riyamishra0226.github.io/AMAZON-PROJECT/)**
 ---
 
 ## 📸 Screenshots
