@@ -73,6 +73,7 @@ AMAZON-PROJECT/
 │── index.html
 │── style.css
 │── README.md
+│── LICENSE
 ```
 
 ---
@@ -127,4 +128,8 @@ This project helped me improve my understanding of:
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
+---
 
+## 📄 License
+
+This project is licensed under the MIT License.
