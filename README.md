@@ -2,9 +2,9 @@
 
 A responsive front-end clone of the Amazon homepage built using **HTML5** and **CSS3**. This project replicates the layout and design of Amazon's homepage to strengthen my front-end web development skills.
 
-## 🔗 Live Demo
+## 🌐 Live Demo
 
-👉 **[View Live Demo](https://riyamishra0226.github.io/AMAZON-PROJECT/)**
+🔗 **[View Live Demo](https://riyamishra0226.github.io/AMAZON-PROJECT/)**
 ---
 
 ## 📸 Screenshots
